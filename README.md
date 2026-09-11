@@ -34,3 +34,6 @@ Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 
 ![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/kali.png?raw=true)
+
+## Step 5. Configure the Kali Linux Network
+The Kali Linux network configuration was checked and configured with a static IPv4 address.
