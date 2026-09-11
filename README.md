@@ -37,3 +37,5 @@ Adapter Type: Intel PRO/1000 MT Desktop
 
 ## Step 5. Configure the Kali Linux Network
 The Kali Linux network configuration was checked and configured with a static IPv4 address.
+
+![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/ip.png?raw=true)
