@@ -44,3 +44,6 @@ The Kali Linux network configuration was checked and configured with a static IP
 After completing the initial configuration, a VirtualBox snapshot (Backup) was created.
 
 ## Problems Encountered
+
+## Problem 1. Internet Connectivity After Static IP Configuration
+After manual configuration of the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration, the command "sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0" sorts out this issue
