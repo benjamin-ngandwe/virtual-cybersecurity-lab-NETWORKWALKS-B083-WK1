@@ -32,3 +32,5 @@ Adapter 1
 Attached to: NAT Network
 Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
+
+![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/kali.png?raw=true)
