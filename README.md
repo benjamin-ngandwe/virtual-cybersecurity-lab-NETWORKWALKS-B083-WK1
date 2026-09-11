@@ -47,3 +47,9 @@ After completing the initial configuration, a VirtualBox snapshot (Backup) was c
 
 ## Problem 1. Internet Connectivity After Static IP Configuration
 After manual configuration of the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration, the command "sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0" sorts out this issue
+
+## What I learned
+Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
+
+## NAT Vs NAT Network
+A NAT Network allows multiple virtual machines to communicate with each other while also providing internet access through network address translation, making it ideal for building a multi-machine cybersecurity lab.
