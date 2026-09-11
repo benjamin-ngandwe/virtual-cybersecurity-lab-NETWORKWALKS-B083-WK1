@@ -22,4 +22,5 @@ Tool: 7-Zip
 ## Step 2. Step 2. Install VirtualBox
 A dedicated NAT Network was created in VirtualBox.
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 
+
 ![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/d6f9ff699484c745d8dedca87dc60a254c4bff17/nat.png)
