@@ -13,3 +13,4 @@ This project focuses on setting up a virtual cybersecurity and penetration-testi
 The lab provides a safe, isolated, and controlled environment for learning cybersecurity concepts and carrying out authorized security testing. It can be used to practice network reconnaissance, port scanning, vulnerability assessment, packet analysis, web security testing, exploitation techniques, and experimenting with different cybersecurity tools.
 ## Lab Architecture
 ![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/lab.jpg?raw=true)
+## Lab Configuration
