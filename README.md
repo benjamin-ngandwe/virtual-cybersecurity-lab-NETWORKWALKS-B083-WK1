@@ -73,6 +73,6 @@ This laboratory is designed solely for educational and learning purposes.
 - Kali Linux: https://kali.org/get-kali
 
 ## Author
-## Benjamin Ng'andwe  
-Cybersecurity Professional B083
-LinkedIn: https://www.linkedin.com/in/ngandwebenji/
+**Benjamin Ng'andwe**    
+Cybersecurity Professional B083  
+LinkedIn: https://www.linkedin.com/in/ngandwebenji/  
