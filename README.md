@@ -59,3 +59,6 @@ I learned how VirtualBox network adapters connect virtual machines to different 
 
 ## VM Snapshots
 I learned the importance of creating a clean snapshot before carrying out risky or experimental activities, providing a reliable recovery point that can be restored during future cybersecurity exercises.
+
+## Documentation
+I learned that keeping clear records of commands, configurations, screenshots, challenges, and their solutions is essential for maintaining a professional cybersecurity project.
