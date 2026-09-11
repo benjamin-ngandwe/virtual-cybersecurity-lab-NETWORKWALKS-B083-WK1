@@ -19,3 +19,6 @@ The lab provides a safe, isolated, and controlled environment for learning cyber
 ## Step 1. Install 7-Zip
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 Tool: 7-Zip
+## Step 2. Step 2. Install VirtualBox
+A dedicated NAT Network was created in VirtualBox.
+Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 
