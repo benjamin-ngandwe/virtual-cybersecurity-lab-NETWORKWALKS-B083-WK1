@@ -53,3 +53,9 @@ Through this project, I learned how to create and configure a virtual environmen
 
 ## NAT Vs NAT Network
 A NAT Network allows multiple virtual machines to communicate with each other while also providing internet access through network address translation, making it ideal for building a multi-machine cybersecurity lab.
+
+## Virtual Machine Networking
+I learned how VirtualBox network adapters connect virtual machines to different network environments and how network settings influence communication between the virtual machines.
+
+## VM Snapshots
+I learned the importance of creating a clean snapshot before carrying out risky or experimental activities, providing a reliable recovery point that can be restored during future cybersecurity exercises.
