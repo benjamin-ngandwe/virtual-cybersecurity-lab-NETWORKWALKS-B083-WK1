@@ -16,3 +16,6 @@ The lab provides a safe, isolated, and controlled environment for learning cyber
 ## Lab Configuration
 ![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/lab%20config.png?raw=true)
 ## Lab Setup Procedure
+## Step 1. Install 7-Zip
+7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
+Tool: 7-Zip
