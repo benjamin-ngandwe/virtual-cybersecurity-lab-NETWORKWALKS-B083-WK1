@@ -39,3 +39,8 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The Kali Linux network configuration was checked and configured with a static IPv4 address.
 
 ![image alt](https://github.com/benjamin-ngandwe/virtual-cybersecurity-lab-NETWORKWALKS-B083-WK1/blob/main/ip.png?raw=true)
+
+## Step 6. Create a Clean VM Snapshot
+After completing the initial configuration, a VirtualBox snapshot (Backup) was created.
+
+## Problems Encountered
