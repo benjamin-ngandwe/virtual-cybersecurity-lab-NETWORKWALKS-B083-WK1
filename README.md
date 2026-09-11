@@ -76,3 +76,6 @@ This laboratory is designed solely for educational and learning purposes.
 **Benjamin Ng'andwe**    
 Cybersecurity Professional B083  
 LinkedIn: https://www.linkedin.com/in/ngandwebenji/  
+
+## Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
