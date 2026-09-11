@@ -62,3 +62,17 @@ I learned the importance of creating a clean snapshot before carrying out risky 
 
 ## Documentation
 I learned that keeping clear records of commands, configurations, screenshots, challenges, and their solutions is essential for maintaining a professional cybersecurity project.
+
+## Security & Ethical Use
+This laboratory is designed solely for educational and learning purposes.
+
+## Tools and Resources
+7-Zip: https://7-zip.org/download.html
+VirtualBox: https://virtualbox.org/wiki/Downloads
+Kali Linux: https://kali.org/get-kali
+
+## Author
+Benjamin Ng'andwe
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/ngandwebenji/
